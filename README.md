@@ -1,5 +1,5 @@
 # Blockchain-api
-Implemented my own blockchain prototype
+Implemented a blockchain prototype
 
 ## Getting Started
 To run this project run `npm install`.
