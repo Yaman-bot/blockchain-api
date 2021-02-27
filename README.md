@@ -15,5 +15,7 @@ To run this project run `npm install`.
 
 ##Run on different local machines
 To run this project on different local machines so as to make it work as a
+</br>
 decentralized network replace https://localhost with your IP addresses in package.json file
+</br>
 **Note**-All machines must be on same WiFi
