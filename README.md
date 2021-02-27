@@ -9,7 +9,7 @@ To run this project run `npm install`.
 - The ability to **mine (create) new blocks** that contain data.
 - The ability to **create transactions** and store them in blocks.
 - A **broadcasting system** to keep the data in the blockchain network synchronized.
-- A **consensus algorithms** to verify that the network nodes have valid data and are synchronized.
+- A **consensus algorithm** to verify that the network nodes have valid data and are synchronized.
 - An **API/server** that will be used to interact with the blockchain from the internet.
 - It will be hosted on a **decentralized blockchain network**.
 
