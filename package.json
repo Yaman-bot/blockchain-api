@@ -1,0 +1,24 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "node_1": "nodemon dev/networkNode.js 5001 http://localhost:5001",
+    "node_2": "nodemon dev/networkNode.js 5002 http://localhost:5002",
+    "node_3": "nodemon dev/networkNode.js 5003 http://localhost:5003",
+    "node_4": "nodemon dev/networkNode.js 5004 http://localhost:5004",
+    "node_5": "nodemon dev/networkNode.js 5005 http://localhost:5005"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "sha256": "^0.2.0",
+    "uuid": "^8.3.2"
+  }
+}
