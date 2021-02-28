@@ -13,7 +13,8 @@ To run this project run `npm install`.
 - An **API/server** that will be used to interact with the blockchain from the internet.
 - It will be hosted on a **decentralized blockchain network**.
 
-##Run on different local machines
+## Run on different local machines
+</br>
 To run this project on different local machines so as to make it work as a
 </br>
 decentralized network replace https://localhost with your IP addresses in package.json file
